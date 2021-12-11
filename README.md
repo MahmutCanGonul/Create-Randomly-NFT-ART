@@ -2,7 +2,7 @@
 Create Randomly NFT ART Project With Python
 
 
-
+⚛️Note: You must enter the your local png file path on input
 
 
 
